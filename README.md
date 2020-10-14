@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/hands-on-gradient-boosting-with-xgboost-and-scikit-learn/9781839218354"><img src="https://static.packt-cdn.com/products/9781839218354/cover/smaller" alt="Hands-On Gradient Boosting with XGBoost and scikit-learn" height="256px" align="right"></a>
 
-This is the code repository for [Hands-On Gradient Boosting with XGBoost and scikit-learn] (https://www.packtpub.com/product/hands-on-gradient-boosting-with-xgboost-and-scikit-learn/9781839218354), published by Packt.
+This is the code repository for [Hands-On Gradient Boosting with XGBoost and scikit-learn](https://www.packtpub.com/product/hands-on-gradient-boosting-with-xgboost-and-scikit-learn/9781839218354), published by Packt.
 
 **Perform accessible machine learning and extreme gradient boosting with Python**
 
