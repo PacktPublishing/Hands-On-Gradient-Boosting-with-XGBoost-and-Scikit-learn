@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/hands-on-gradient-boosting-with-xgboost-and-scikit-learn/9781839218354"><img src="https://static.packt-cdn.com/products/9781839218354/cover/smaller" alt="Hands-On Gradient Boosting with XGBoost and scikit-learn" height="256px" align="right"></a>
 
-This is the code repository for [Hands-On Gradient Boosting with XGBoost and scikit-learn](https://www.packtpub.com/product/hands-on-gradient-boosting-with-xgboost-and-scikit-learn/9781839218354), published by Packt.
+This is the code repository for [Hands-On Gradient Boosting with XGBoost and scikit-learn] (https://www.packtpub.com/product/hands-on-gradient-boosting-with-xgboost-and-scikit-learn/9781839218354), published by Packt.
 
 **Perform accessible machine learning and extreme gradient boosting with Python**
 
@@ -48,8 +48,7 @@ With the following software and hardware list you can run all code files present
 | 3        |xgboost 1.2             | Windows, Mac OS X, and Linux (Any) |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781839218354_
-ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781839218354_ColorImages.pdf).
 
 ### Related products <Other books you may enjoy>
 * Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits [[Packt]](https://www.packtpub.com/product/hands-on-machine-learning-with-scikit-learn-and-scientific-python-toolkits/9781838826048) [[Amazon]](https://www.amazon.com/dp/1838826041)
