@@ -53,7 +53,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products <Other books you may enjoy>
 * Hands-On Machine Learning with scikit-learn and Scientific Python Toolkits [[Packt]](https://www.packtpub.com/product/hands-on-machine-learning-with-scikit-learn-and-scientific-python-toolkits/9781838826048) [[Amazon]](https://www.amazon.com/dp/1838826041)
 
-* Mastering Machine Learning Algorithms- Second Edition [[Packt]](https://www.packtpub.com/product/mastering-machine-learning-algorithms-second-edition/9781838820299) [[Amazon]](https://www.amazon.com/dp/	1838820299)
+* Mastering Machine Learning Algorithms- Second Edition [[Packt]](https://www.packtpub.com/product/mastering-machine-learning-algorithms-second-edition/9781838820299) [[Amazon]](https://www.amazon.com/dp/1838820299)
 
 ## Get to Know the Author
 **Corey Wade**
