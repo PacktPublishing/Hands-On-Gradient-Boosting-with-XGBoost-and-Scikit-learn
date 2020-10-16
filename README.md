@@ -33,7 +33,7 @@ cross_val(LogisticRegression())
 **Following is what you need for this book:**
 This book is for data science professionals and enthusiasts, data analysts, and developers who want to build fast and accurate machine learning models that scale with big data. Proficiency in Python, along with a basic understanding of linear algebra, will help you to get the most out of this book.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
 
 ### Software and Hardware List
 
@@ -44,7 +44,7 @@ With the following software and hardware list you can run all code files present
 | 3        | xgboost 1.2            | Windows, Mac OS X, and Linux (Any) |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781839218354_ ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781839218354_ColorImages.pdf).
 
 
 ### Related products <Other books you may enjoy>
