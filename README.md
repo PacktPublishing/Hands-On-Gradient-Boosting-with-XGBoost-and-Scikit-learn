@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B15551?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Hands-On Gradient Boosting with XGBoost and scikit-learn
 
 <a href="https://www.packtpub.com/product/hands-on-gradient-boosting-with-xgboost-and-scikit-learn/9781839218354"><img src="https://static.packt-cdn.com/products/9781839218354/cover/smaller" alt="Hands-On Gradient Boosting with XGBoost and scikit-learn" height="256px" align="right"></a>
