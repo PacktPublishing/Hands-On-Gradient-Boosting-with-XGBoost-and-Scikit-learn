@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781839218354)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Hands-On Gradient Boosting with XGBoost and scikit-learn
 
 <a href="https://www.packtpub.com/product/hands-on-gradient-boosting-with-xgboost-and-scikit-learn/9781839218354"><img src="https://static.packt-cdn.com/products/9781839218354/cover/smaller" alt="Hands-On Gradient Boosting with XGBoost and scikit-learn" height="256px" align="right"></a>
